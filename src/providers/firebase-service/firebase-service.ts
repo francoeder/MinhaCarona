@@ -1,6 +1,5 @@
 import { Injectable } from '@angular/core';
-import { AngularFireDatabaseModule } from "angularfire2/database";
-import { AngularFireDatabase, FirebaseObjectObservable } from 'angularfire2/database';
+import { AngularFireDatabase } from 'angularfire2/database';
 
 /*
   Generated class for the FirebaseServiceProvider provider.
